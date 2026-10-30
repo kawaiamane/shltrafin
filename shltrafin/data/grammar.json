@@ -1,0 +1,48 @@
+{
+  "chapters": [
+    {
+      "id": "syntax",
+      "number": "01",
+      "title": "基本語順",
+      "description": "シャルトラフ語では、通常の文の基本語順はSVO（主語・動詞・目的語）です。",
+      "blocks": [
+        {
+          "type": "syntax",
+          "parts": [
+            "S",
+            "V",
+            "O"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "一部の構文には例外があります。例外の条件や具体例は、文法が確定した段階で追記します。"
+        }
+      ]
+    },
+    {
+      "id": "exceptions",
+      "number": "02",
+      "title": "語順の例外",
+      "description": "基本語順SVOから外れる構文を、今後この章に追加します。",
+      "blocks": [
+        {
+          "type": "note",
+          "text": "詳細は未記載です。規則が確定してから更新してください。"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "number": "03",
+      "title": "その他の文法",
+      "description": "品詞、時制、疑問文、否定文などの文法項目を、必要に応じて追加できます。",
+      "blocks": [
+        {
+          "type": "note",
+          "text": "現在準備中です。"
+        }
+      ]
+    }
+  ]
+}
